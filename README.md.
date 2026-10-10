@@ -1,0 +1,22 @@
+# SentinelAI — AI-Powered Phishing & Cyber Threat Analyzer
+
+## About the Project
+SentinelAI is a cybersecurity mini-project designed to help users analyze suspicious URLs and identify potential phishing threats.
+
+## Problem Statement
+Phishing attacks use deceptive links to trick users into revealing sensitive information. SentinelAI aims to help users recognize suspicious URLs and improve online safety.
+
+## Objectives
+- Analyze URLs for potential phishing indicators.
+- Help users understand potential cyber threats.
+- Promote cybersecurity awareness.
+- Provide a simple, user-friendly interface.
+
+## Project Documentation
+The project report is available in [`report.pdf`](report.pdf).
+
+## Project Status
+Mini-project in development.
+
+## Disclaimer
+This project is intended for educational purposes. Its results cannot guarantee that a URL is safe or malicious.
